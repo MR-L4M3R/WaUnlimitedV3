@@ -4,7 +4,7 @@ print '\x1b[1;32mSilahkan Login '
 import os, sys
 
 def wa():
-    os.system('xdg-open https://api.whatsapp.com/send?phone=+6285647761959&text=Assalamualaikum')
+    os.system('xdg-open https://api.whatsapp.com/send?phone=+6281291977644&text=Assalamualaikum')
 
 
 def restart():
@@ -53,6 +53,7 @@ def jalan(z):
         sys.stdout.write(e)
         sys.stdout.flush()
         time.sleep(0.1)
+
 
 import requests, os, sys, json
 hi = '\033[0;32m'
