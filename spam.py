@@ -1,5 +1,5 @@
 import os, sys
-print '\x1b[1;32mMasukan ID: Borot dan Password: indoxploit untuk Login dan jangan lupa login facebook di OperaMini dulu sebelum login agar tidak CekPoint'
+print '\x1b[1;32mSudah Punya ID dan Password untuk Login?? Kalo belum ketik asal asal aja nanti di arahkan ke wa admin:) dan jangan lupa login facebook di OperaMini dulu sebelum login agar tidak CekPoint'
 print '\x1b[1;32mSilahkan Login '
 import os, sys
 
@@ -16,7 +16,7 @@ user = raw_input('ID: ')
 import getpass
 sandi = raw_input('Password: ')
 if sandi == 'indoxploit' and user == 'Borot':
-    print 'Anda Telah Login'
+    print 'Login Berhasil'
     sys.exit
 else:
     print 'Login GAGAL, Silahkan hubungi ADMIN'
